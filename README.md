@@ -20,11 +20,11 @@ pip install -r requirements.txt
 ## Model Details
 
 - **Model Architecture:** LeNet is one of the early convolutional neural networks (CNNs) and is a foundational architecture in deep learning for image classification tasks.
-- 
+  
 - **Dataset:** I used the MNIST handwritten digits dataset consisting of 60,000 train images and 10,000 test images. You can import the dataset from torchvision.datasets.MNIST
-- 
+  
 - **Model File:** `lenet_mnist_model.pth`
-- 
+  
 - **Performance:** The model achieves high accuracy (98%) in recognizing handwritten digits from the MNIST dataset.
 
 ## Dependencies
