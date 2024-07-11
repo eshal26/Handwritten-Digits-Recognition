@@ -13,7 +13,7 @@ This repository contains an application for recognizing handwritten digits using
 To set up the project, clone the repository and install the required packages.
 
 ```bash
-git clone https://github.com/eshal26/Handwritten-Multi-Digit-Classification
+git clone https://github.com/eshal26/Handwritten-Multi-Digit-Classification.git
 cd Handwritten-Multi-Digit-Classification
 pip install -r requirements.txt
 ```
@@ -50,6 +50,7 @@ Contributions are welcome! Please submit a pull request describing your changes 
 
 ## Screenshot
 
-![image](https://github.com/eshal26/Handwritten-Multi-Digit-Classification/assets/124394813/117c3963-013e-4434-a8e4-f0773a1dc7bb)
+![image](https://github.com/eshal26/Handwritten-Multi-Digit-Classification/assets/124394813/43f5c90e-4f25-46f6-8f06-87546206dd47)
+
 
 
