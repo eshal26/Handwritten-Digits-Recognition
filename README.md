@@ -13,8 +13,8 @@ This repository contains an application for recognizing handwritten digits using
 To set up the project, clone the repository and install the required packages.
 
 ```bash
-git clone https://github.com/eshal26/Handwritten-Multi-Digit-Classification.git
-cd Handwritten-Multi-Digit-Classification
+git clone https://github.com/eshal26/Handwritten-Digits-Recognition.git
+cd Handwritten-Digits-Recognition
 pip install -r requirements.txt
 ```
 ## Model Details
